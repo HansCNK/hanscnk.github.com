@@ -1,2 +1,2 @@
-# hanscnk.github.com
+# hanscnk.github.io
  Personal webpage
